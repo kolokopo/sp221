@@ -2,9 +2,9 @@
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br> <br>
-[HOME]({{ site.baseurl }}/) ---
-[LOG]({{ site.myloglink }}) ---
-[GITHUB]({{ site.githublink }})
+[HOME](/) ---
+[LOG](TXT/mylog.txt) ---
+[GITHUB](https://github.com/kolokopo/sp221)
 <br>
 <hr>
 This is {{ site.title }} and I am {{ site.author }}.
