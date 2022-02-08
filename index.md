@@ -2,7 +2,7 @@
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br> <br>
-[HOME](/) ---
+[HOME](sp221/) ---
 [LOG](TXT/mylog.txt) ---
 [GITHUB](https://github.com/kolokopo/sp221)
 <br>
